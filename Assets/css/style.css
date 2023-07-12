@@ -1,8 +1,8 @@
 #forecast {
     position: absolute;
-    left: -3%;
+     left: 2.3%; /*ajusts positining odf 5 day forcast row   */
 }
-
+/* ajust color to the header background  */
 h1 {
     margin-bottom: 0%;
     Background-color: rgb(0, 123, 255);
